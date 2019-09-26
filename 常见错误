@@ -1,0 +1,8 @@
+SyntaxError:语法错误
+NameError:尝试访问一个没有声明的变量
+ZeroDivisionError:除数为0错误
+ValueError:数值错误
+TypeError:类型错误
+AttributeError:访问对象不存在的属性
+IndexError:索引越界异常
+KeyError:字典关键字不存在
